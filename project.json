@@ -1,0 +1,12 @@
+{
+  "name": "integration",
+  "short_description": "calculate integration using area under curve",
+  "version": "0.0.1",
+  "author": "Terroid",
+  "email": "skandabhairava@gmail.com",
+  "author_github": "https://github.com/skandabhairava",
+  "entry_point": "integration.py",
+  "working_directory": "src",
+  "github": "",
+  "license": "MIT"
+}
